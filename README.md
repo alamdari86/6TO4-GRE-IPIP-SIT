@@ -2,7 +2,7 @@
 
 **برای ubuntu24 از این کامند استفاده نمایید(برای سایر نسخه ها هم میتوانید استفاده کنید)** 
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/ubuntu24.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/alamdari86/6TO4-GRE-IPIP-SIT/main/ubuntu24.sh)"
 ```
 
 **گزینه status اضافه و فیکس شد**
@@ -45,7 +45,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SI
 
   <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Rathole_reverseTunnel/assets/119934376/3cfd920d-30da-4085-8234-1eec16a67460" alt="Image"> آپدیت</strong></summary>
+    <summary><strong><img src="https://github.com/alamdari86/Rathole_reverseTunnel/assets/119934376/3cfd920d-30da-4085-8234-1eec16a67460" alt="Image"> آپدیت</strong></summary>
   
 ------------------------------------ 
 
@@ -1740,11 +1740,11 @@ wget "https://raw.githubusercontent.com/hawshemi/Linux-Optimizer/main/linux-opti
 ----------------
 - برای ubuntu24 از این دستور استفاده نمایید
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/ubuntu24.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/alamdari86/6TO4-GRE-IPIP-SIT/main/ubuntu24.sh)"
 ```
 
 ```
-apt install python3 -y && sudo apt install python3-pip &&  pip install colorama && pip install netifaces && apt install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
+apt install python3 -y && sudo apt install python3-pip &&  pip install colorama && pip install netifaces && apt install curl -y && python3 <(curl -Ls https://raw.githubusercontent.com/alamdari86/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
 ```
 
 
@@ -1758,13 +1758,13 @@ sudo apt-get install python-pip -y  &&  apt-get install python3 -y && alias pyth
  <div dir="rtl">&bull;  دستور زیر برای کسانی هست که پیش نیاز ها را در سرور، نصب شده دارند</div>
  
 ```
-python3 <(curl -Ls https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
+python3 <(curl -Ls https://raw.githubusercontent.com/alamdari86/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
 ```
 --------------------------------------
  <div dir="rtl">&bull; اگر سرور شما خطای externally-managed-environment داد از دستور زیر اقدام به اجرای اسکریپت نمایید.</div>
  
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/managed2.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/alamdari86/6TO4-GRE-IPIP-SIT/main/managed2.sh)"
 ```
 
 ---------------------------------------------
